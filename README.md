@@ -1,6 +1,6 @@
-# Welcome to your CDK TypeScript project
+# Powertools Playground
 
-This is a blank project for CDK development with TypeScript.
+This is a project used to reproduce reported bugs and unexpected behaviours of the AWS Lambda Powertools for TypeScript utilities.
 
 The `cdk.json` file tells the CDK Toolkit how to execute your app.
 
